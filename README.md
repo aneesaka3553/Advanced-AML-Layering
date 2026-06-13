@@ -1,5 +1,4 @@
-# Advanced-AML-Layering
-# 🚀 Advanced AML Compliance Dashboard
+# 🚀 Advanced AML Layering Dashboard
 
 ## 📌 Overview
 This project demonstrates an end-to-end KYC (Know Your Customer) and AML (Anti-Money Laundering) compliance dashboard built using Excel and Power BI.
